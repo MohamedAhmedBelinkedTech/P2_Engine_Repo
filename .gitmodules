@@ -1,0 +1,3 @@
+[submodule "testing/P2_Testing"]
+	path = testing/P2_Testing
+	url = ../P2_Testing_Repo.git
