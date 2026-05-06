@@ -1,0 +1,1 @@
+namespace P2EngineRepo.DataTypes; public sealed class HarmonicSummary { public double Fundamental { get; init; } public double Third { get; init; } public double Fifth { get; init; } public double TotalHarmonicDistortion { get; init; } }
